@@ -17,3 +17,12 @@ namespace AddisonWesley.Michaelis.EssentialCSharp.Chapter02.Listing02_19
         }
     }
 }
+
+//null 소개
+
+/*
+ * null은 아무것도 없을을 뜻함. (0아님)
+ * 말 그대로 Nothing을 뜻함.
+ * 
+ * 변수앞에 ?를 붙임으로써 해당 변수가 null을 가질 수 있도록 지정함.(null 허용 한정자)
+ */

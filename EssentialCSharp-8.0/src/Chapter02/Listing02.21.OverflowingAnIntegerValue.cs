@@ -11,3 +11,5 @@ namespace AddisonWesley.Michaelis.EssentialCSharp.Chapter02.Listing02_21
         }
     }
 }
+
+//int의 최고값.

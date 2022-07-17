@@ -12,7 +12,18 @@ namespace AddisonWesley.Michaelis.EssentialCSharp.Chapter02.Listing02_17
             // UNEXPECTED: Does not convert text to uppercase
             text.ToUpper();
 
+            string s1 = "hello";
+            string s2 = "world";
+            string s3 = s1 + s2; // helloworld
             System.Console.WriteLine(text);
         }
     }
 }
+
+
+//문자열 소개 - string
+//string 문자열 클래스에 다양한 활용법
+//.compre 비교
+//.format 초기화
+//.concat 합치기
+//.Tolower, ToUppder , Trim Replace 등등
